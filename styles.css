@@ -1,0 +1,191 @@
+/* Custom CSS */
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 8, 0);
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.first{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000(116, 113, 113);
+    text-align: center;
+    padding: 0px;
+}
+
+.sequel{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000(116, 113, 113);
+    text-align: center;
+    padding: 0px;
+}
+
+.sequel2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000(116, 113, 113);
+    text-align: center;
+    padding: 0px;
+}
+
+.clever{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f13506;
+    text-align: center;
+    padding: 20px;
+}
+
+.dear{
+    text-align: left;
+    margin-left: 388px;
+    color: #f13506;
+}
+
+.yes{
+    text-align: right;
+    margin-right: 130px;
+    color: #000;  
+}
+
+.different{
+    text-align: left;
+    margin-left: 388px;
+    color: #f13506
+}
+
+.cool{
+    text-align: left;
+    margin-left: 388px;
+}
+
+.cool2{
+    text-align: left;
+    margin-left: 388px;
+}
+
+.cookie{
+    text-align: left;
+    margin-left: 330px;
+    color: #000;
+}
+
+.donut{
+    text-align: left;
+    margin-left: 378px;
+}
+
+.donut2{
+    text-align: right;
+    margin-right: 25px;
+}
+
+.vitamin{
+    text-align: left;
+    margin-left: 375px;
+    color: #000;  
+}
+
+.vitamin2{
+    text-align: right;
+    margin-right: 877px;
+    color: #000;
+}
+
+.vitamin3{
+    text-align: left;
+    margin-left: 252px;
+    color: #000;
+}
+
+.good{
+    text-align: right;
+    margin-right: 58px;
+    color: #000;
+}
+
+.good2{
+    text-align: left;
+    margin-left: 372px;
+    color: #000;
+}
+
+.good3{
+    text-align: right;
+    margin-right: 452px;
+    color: #000;
+
+}
+
+.silly{
+    text-align: left;
+    margin-left: 369px;
+    color: #000;
+}
+
+.sillytwo{
+    text-align: left;
+    margin-left: 369px;
+    color: #000;
+}
+
+.sillythree{
+    text-align: left;
+    margin-left: 388px;
+    color: #000;
+}
+
+.radical{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 8, 0);
+    text-align: left;
+    margin-left: 369px;
+}
+
+.radical2{
+    text-align: left;
+    margin-left: 369px;
+    color: #000;
+}
+
+.radical3{
+    text-align: left;
+    margin-left: 369px;
+    color: #000;
+}
+
+.radical4{
+    text-align: left;
+    margin-left: 369px;
+    color: #000;
+}
+
+.radical5{
+    text-align: left;
+    margin-left: 369px;
+    color: #000;
+}
+
+.radical6{
+    text-align: left;
+    margin-left: 369px;
+    color: #000;
+}
+
+.radical7{
+    text-align: left;
+    margin-left: 369px;
+    color: #000;
+}
+
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    margin: 10px 10px 0px;
+    padding: 0px
+}ul{
+    display: inline-block;
+    text-align: left;
+    margin: 0 0 10px;
+    padding: 0px
+}
